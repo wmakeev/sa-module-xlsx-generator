@@ -1,0 +1,17 @@
+{
+    "name": "sa-module-xlsx-generator",
+    "version": "0.1.0",
+    "description": "scaleApp node.js module for generating xlsx files.",
+    "author": "Makeev Vitaliy <w.makeev@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wmakeev/sa-module-xlsx-generator"
+    },
+    "keywords": [
+        "xlsx",
+        "scaleApp",
+        "module"
+    ],
+    "_eventVersion": "1.0",
+    "_emmitVersion": "1.0"
+}
