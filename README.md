@@ -48,11 +48,11 @@ none
 
 event `e` fields:
 
-| name       | type       | optional | description
+| name       | type       | optional | description |
 |------------|------------|------------------------
-| _eventId    | `String`   | true     | some Id to track result event
-| _version    | `String`  | true     | version of event interface (equal to generator version)
-| workbook   | `Object`   | false    | workbook data
+| _eventId    | `String`   | true     | some Id to track  result event |
+| _version    | `String`  | true     | version of event interface (equal to generator version) |
+| workbook   | `Object`   | false    | workbook data |
 
 Sample **workbook** data for xlsx file generation
 ```js
